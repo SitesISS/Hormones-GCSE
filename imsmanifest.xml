@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5ZnF4LOMaK5_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Hormones MCQs</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Hormones_MCQs_ORG">
+    <organization identifier="Hormones_MCQs_ORG">
+      <title>Hormones MCQs</title>
+      <item identifier="Insulin_Auxin_SCO" isvisible="true" identifierref="__5ZnF4LOMaK5_course_id_RES">
+        <title>Hormones MCQs</title>
+        <adlcp:masteryscore>80</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5ZnF4LOMaK5_course_id_RES" type="webcontent" href="launcher.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6gEr42gHptV.png" />
+      <file href="mobile/6mx5gUVHQ0V.png" />
+      <file href="mobile/6710uAlYc1X_M_1098_1098_P_0_0_600_671.png" />
+      <file href="mobile/5oOuU8mDzXq_F8F8F8_P_728_198_450_458.png" />
+      <file href="mobile/5bdmcip2vBY_M_1440_1440.png" />
+      <file href="mobile/6Go4CESNwDy_P_511_124_473_450.png" />
+      <file href="mobile/6Q7yHlhT6OS.png" />
+      <file href="mobile/6pgP5Jujvod_M_1440_1440.png" />
+      <file href="mobile/6oXjrTpVtto_M_1440_1440.png" />
+      <file href="mobile/6710uAlYc1X_M_1346_1346.png" />
+      <file href="mobile/5mJDw5RuAJg_M_904_904.png" />
+      <file href="mobile/6RQlDvsfdXZ_M_1440_1440.png" />
+      <file href="mobile/5iYh3z7vYq1_M_1440_1440.png" />
+      <file href="mobile/66D8SRGZQAR_M_1440_1440.png" />
+      <file href="mobile/6ZOD2gJr0G5_M_1440_1440.png" />
+      <file href="mobile/5bQoMwzwDln_M_1440_1440.png" />
+      <file href="mobile/5zp9RlkWonR_M_1344_1344.png" />
+      <file href="mobile/6RC6p44z4ES_M_1256_1256.png" />
+      <file href="mobile/5rx1uMIUo9i_M_1184_1184.png" />
+      <file href="mobile/5aN01eCrcUs_M_1312_1312.png" />
+      <file href="mobile/6EM4jvzeVJD_M_1440_1440.png" />
+      <file href="mobile/6qSZBFouMoI_M_1440_1440.png" />
+      <file href="mobile/6OWHBgGKPQK_M_1016_1016.png" />
+      <file href="mobile/63Kieqgsy3q.png" />
+      <file href="mobile/6RCTlqcAUnr.png" />
+      <file href="mobile/6364LZUocPD.png" />
+      <file href="mobile/6DfA0dPhhRD.png" />
+      <file href="mobile/5dkQzCJQDiF.png" />
+      <file href="mobile/6Z1xxJtotC9.png" />
+      <file href="mobile/5uTNPoRDi28.png" />
+      <file href="mobile/6k5Z5AKYANJ.png" />
+      <file href="mobile/5eNUrnOF9ln.png" />
+      <file href="mobile/5zElNs9MBUW.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5ayq39nLI0C.js" />
+      <file href="html5/data/js/5b2MpeHNd1m.js" />
+      <file href="html5/data/js/5e8Xw0aS98v.js" />
+      <file href="html5/data/js/5filwStw94B.js" />
+      <file href="html5/data/js/5iSWmYy00tQ.js" />
+      <file href="html5/data/js/5lnncKbglSu.js" />
+      <file href="html5/data/js/5pF8DILNXRn.js" />
+      <file href="html5/data/js/5pTW87MfBYp.js" />
+      <file href="html5/data/js/5sY979vEs5U.js" />
+      <file href="html5/data/js/5XinmCkMjjv.js" />
+      <file href="html5/data/js/5yIZCfkAIfW.js" />
+      <file href="html5/data/js/5yW7FtZPgrq.js" />
+      <file href="html5/data/js/5ZRKWlrGp5q.js" />
+      <file href="html5/data/js/60S8I0rJpwj.js" />
+      <file href="html5/data/js/688WfYEZgnz.js" />
+      <file href="html5/data/js/6A1nlwEDdYA.js" />
+      <file href="html5/data/js/6bWirpeaoEU.js" />
+      <file href="html5/data/js/6CG5C28QWQh.js" />
+      <file href="html5/data/js/6dyvDfwIca8.js" />
+      <file href="html5/data/js/6HnL1VVCbty.js" />
+      <file href="html5/data/js/6HqA5tnxwjl.js" />
+      <file href="html5/data/js/6iQwwP3OSWm.js" />
+      <file href="html5/data/js/6Jz7aNbjBte.js" />
+      <file href="html5/data/js/6KuVQv0EiM4.js" />
+      <file href="html5/data/js/6Lqbp2MOih0.js" />
+      <file href="html5/data/js/6MJ3wuslH1j.js" />
+      <file href="html5/data/js/6MWfhJnvLVn.js" />
+      <file href="html5/data/js/6oOJFd0ErX3.js" />
+      <file href="html5/data/js/6ozLNvvgMWm.js" />
+      <file href="html5/data/js/6p2kY6fdaxt.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/hls/hls.min.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="launcher.html" />
+      <file href="story_content/external_window.png" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
